@@ -21,7 +21,7 @@ This software asks for user details at the time of creating account. The user ca
 ## Functional Requirements
 The software uses Java Programming Language for back–end and Swing API for front-end GUI design using Eclipse IDE. Query Based Language, SQL has been used for database manipulation and MySQL Workbench as well as JDBC (Java DataBase Connector) has been used for connection. It also uses OOPs Concepts such as Abstraction, Polymorphism to work with multiple classes. Error Handling and Data Validation has been implemented at evert possible branch.
 
-## Result
+## Overview of the Software
 - Home Screen
 
 <img width="364" alt="image" src="https://user-images.githubusercontent.com/83510385/185413597-6827eafb-a658-4c6a-bb2b-68981686a9fa.png">
