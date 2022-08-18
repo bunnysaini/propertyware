@@ -18,7 +18,7 @@ PropertyWare captures the following functions for a buyer:
 
 This software asks for user details at the time of creating account. The user can be a buyer or seller of a property, buyers get to see the list of properties listed so that further operations can be carried out in required manner.
 
-## Functional Requirements
+## Functionality
 The software uses Java Programming Language for back–end and Swing API for front-end GUI design using Eclipse IDE. Query Based Language, SQL has been used for database manipulation and MySQL Workbench as well as JDBC (Java DataBase Connector) has been used for connection. It also uses OOPs Concepts such as Abstraction, Polymorphism to work with multiple classes. Error Handling and Data Validation has been implemented at evert possible branch.
 
 ## Overview of the Software
