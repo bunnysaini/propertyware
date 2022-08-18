@@ -23,9 +23,11 @@ The software uses Java Programming Language for back–end and Swing API for fro
 
 ## Result
 -Home Screen
-  <img width="364" alt="image" src="https://user-images.githubusercontent.com/83510385/185413597-6827eafb-a658-4c6a-bb2b-68981686a9fa.png">
+
+<img width="364" alt="image" src="https://user-images.githubusercontent.com/83510385/185413597-6827eafb-a658-4c6a-bb2b-68981686a9fa.png">
   
 -Registration Page
+
 <img width="314" alt="image" src="https://user-images.githubusercontent.com/83510385/185413861-87a380be-26d5-4a47-a90b-e3a77325aff8.png">
 
 -Login Page
